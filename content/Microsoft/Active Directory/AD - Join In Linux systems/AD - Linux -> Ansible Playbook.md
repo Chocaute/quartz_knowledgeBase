@@ -1,10 +1,10 @@
 ---
 created: 2024-02-26T12:19
-updated: 2024-06-12T11:41
+updated: 2024-06-12T14:14
 ---
 
 > [!WARNING]
-> Check out [[Debian AD Join Playbook - Complete Playbook]], what's bellow may not be up-to-date.
+> Check out [[Debian 'AD Join' Playbook - Complete Playbook]], what's bellow may not be up-to-date.
 
 ```yml
 - name: Install required packages
